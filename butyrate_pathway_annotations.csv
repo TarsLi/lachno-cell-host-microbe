@@ -1,0 +1,35 @@
+﻿step,Reaction,prokka_target,alternate,class
+1,thl,Acetyl-CoA acetyltransferase,,A
+2,hbd,3-hydroxybutyryl-CoA dehydrogenase,,A
+3,cro,short-chain-enoyl-CoA hydratase,,A
+4,bcd,"Acyl-CoA dehydrogenase, short-chain specific",,A
+5,but,Acetate CoA-transferase subunit alpha,,A
+5,but,Acetate CoA-transferase subunit beta,,A
+1,thl,Acetyl-CoA acetyltransferase,,B
+2,hbd,3-hydroxybutyryl-CoA dehydrogenase,,B
+3,cro,short-chain-enoyl-CoA hydratase,,B
+4,bcd,"Acyl-CoA dehydrogenase, short-chain specific",,B
+5,but,Butanoate coenzyme A-transferase,,B
+1,thl,Acetyl-CoA acetyltransferase,,C
+2,hbd,3-hydroxybutyryl-CoA dehydrogenase,,C
+3,cro,short-chain-enoyl-CoA hydratase,,C
+4,bcd,"Acyl-CoA dehydrogenase, short-chain specific",,C
+5,buk,Butyrate kinase 2,,C
+6,ptb,Phosphate acetyltransferase,,C
+1,thl,Acetyl-CoA acetyltransferase,,D
+2,hbd,3-hydroxybutyryl-CoA dehydrogenase,,D
+3,cro,short-chain-enoyl-CoA hydratase,,D
+4,bcd,"Acyl-CoA dehydrogenase, short-chain specific",,D
+5,but,Butyrate--acetoacetate CoA-transferase subunit A,,D
+5,but,Butyrate--acetoacetate CoA-transferase subunit B,,D
+1,thl,Acetyl-CoA acetyltransferase,,E
+2,hbd,3-hydroxybutyryl-CoA dehydrogenase,,E
+3,cro,Crotonyl-CoA hydratase,,E
+4,bcd,"Acyl-CoA dehydrogenase, short-chain specific",,E
+5,but,Butanoate coenzyme A-transferase,,E
+1,thl,Acetyl-CoA acetyltransferase,,F
+2,hbd,3-hydroxybutyryl-CoA dehydrogenase,,F
+3,cro,short-chain-enoyl-CoA hydratase,,F
+4,bcd,"Acyl-CoA dehydrogenase, short-chain specific",,F
+5,buk,Butyrate kinase 2,,F
+6,ptb,Ethanolamine utilization protein EutD,,F
